@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "App Contatos",
+    "slug": "app-contatos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "app-contatos",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permita que o aplicativo acesse suas fotos para adicionar imagens aos contatos."
+        }
+      ]
+    ]
+  }
+}
