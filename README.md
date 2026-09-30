@@ -5,7 +5,7 @@ Aplicativo didático de gerenciamento de contatos com autenticação JWT, Secure
 ## API usada
 
 https://api-contatos-auth-04-09-25.onrender.com
-
+ 
 ## Rotas utilizadas
 
 - POST `/usuarios/registrar`
